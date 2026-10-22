@@ -21,8 +21,8 @@ I am a detail-oriented **Business Analysis Intern** with a solid 2-year backgrou
 ---
 
 ### 🚀 Featured Projects & Documentation
-- 📊 **[IT Service Desk Performance Dashboard]**: Power BI dashboard analyzing ticket resolution rates, SLA compliance, and support trends.
-- 🔄 **[Business Process Automation Mapping]**: End-to-end BPMN workflow diagrams designed in Lucidchart for IT asset management onboarding.
+- 📊 **IT Service Desk Performance Dashboard**: Power BI dashboard analyzing ticket resolution rates, SLA compliance, and support trends.
+- 🔄 **Business Process Automation Mapping**: End-to-end BPMN workflow diagrams designed in Lucidchart for IT asset management onboarding.
 
 ---
 <!--
