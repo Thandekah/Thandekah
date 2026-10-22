@@ -25,11 +25,6 @@ I am a detail-oriented **Business Analysis Intern** with a solid 2-year backgrou
 - 🔄 **[Business Process Automation Mapping]**: End-to-end BPMN workflow diagrams designed in Lucidchart for IT asset management onboarding.
 
 ---
-
-### 📫 Connect with Me
-- **LinkedIn:** [Your LinkedIn Profile URL]
-- **Email:** [Your Email Address]### Hi there 👋
-
 <!--
 **Thandekah/Thandekah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
